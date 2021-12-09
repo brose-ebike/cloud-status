@@ -12,9 +12,11 @@ sites:
   - name: Komoot
     url: "https://auth-api.main.komoot.net/"
     maxResponseTime: 5000
+    icon: "https://www.komoot.de/icons/favicon.11dce39abcb07b8a81b4c3be7218631f.png"
   - name: Strava
     url: "https://www.strava.com/"
     maxResponseTime: 5000
+    icon: "https://d3nn82uaxijpm6.cloudfront.net/apple-touch-icon-180x180.png"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
