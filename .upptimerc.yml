@@ -25,4 +25,8 @@ status-website:
       href: /
     - title: Website
       href: https://www.brose-ebike.com
-
+    - title: Imprint
+      href: https://www.brose-ebike.com/de-de/impressum.html
+i18n:
+  footer: Brose Antriebstechnik GmbH und Co. Kommanditgesellschaft, Berlin, Powered by [Upptime](https://upptime.js.org/).
+  liveStatus: System Status
