@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "name": "Brose E-Bike App",
+    "url": "$STATUS_URL_APP",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "brose-e-bike-app",
+    "status": "down",
+    "uptime": "9.34%",
+    "uptimeDay": "9.34%",
+    "uptimeWeek": "9.34%",
+    "uptimeMonth": "9.34%",
+    "uptimeYear": "9.34%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-12-09": 0
+    }
+  },
+  {
+    "name": "Brose E-Bike SDK",
+    "url": "$STATUS_URL_SDK",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "brose-e-bike-sdk",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 502,
+    "timeDay": 502,
+    "timeWeek": 502,
+    "timeMonth": 502,
+    "timeYear": 502,
+    "dailyMinutesDown": {}
+  }
+]
