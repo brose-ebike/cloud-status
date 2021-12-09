@@ -1,54 +1,58 @@
 :root {
-    --body-background-color: #0d1117;
-    --body-text-color: #c9d1d9;
-    --card-background-color: #30363D;
-    --nav-background-color: #161b22;
-    --nav-border-bottom-color: #161b22;
-    --nav-current-border-bottom-color: #33416a;
-    --card-border-color: #30363D;
-    --down-border-left-color: #ff7676;
-    --down-background-color: #6b1020;
-    --degraded-border-left-color: #f7b731;
-    --up-border-left-color: #53e69d;
-    --tag-color: #0d1117;
-    --tag-up-background-color: #53e69d;
-    --tag-down-background-color: #ff7676;
-    --tag-degraded-background-color: #f7b731;
-    --change-background-color: #f7b731;
-    --error-button-border-color: #1a46ad;
-    --error-button-background-color: #3867d6;
-    --error-button-color: #ffffff;
-    --submit-button-border-color: #1a46ad;
-    --submit-button-background-color: #3867d6;
-    --submit-button-color: #ffffff;
-    --graph-opacity: 1;
-    --graph-filter: hue-rotate(56deg) saturate(113%) brightness(54%); /* I had to do some crazy mental math to calculate this one, jesus christ. */
-    /* --graph-filter: brightness(0.35) sepia(1) hue-rotate(88deg) saturate(8); */
-
-    /* Based off of the "night" theme, with custom accents. */
-  }
-
-nav .container{
-  flex-direction: row-reverse;
+ --body-background-color: #FFFFFF;
+ --body-text-color: rgb(61, 71, 76);
+ --card-background-color: #EEEEEE;
+ --nav-background-color: #EEEEEE;
+ --nav-border-bottom-color: #EEEEEE;
+ --nav-current-border-bottom-color: #EEEEEE;
+ --card-border-color: #EEEEEE;
+ --down-border-left-color: #ff7676;
+ --down-background-color: #6b1020;
+ --degraded-border-left-color: #f7b731;
+ --up-border-left-color: #53e69d;
+ --tag-color: #0d1117;
+ --tag-up-background-color: #53e69d;
+ --tag-down-background-color: #ff7676;
+ --tag-degraded-background-color: #f7b731;
+ --change-background-color: #f7b731;
+ --error-button-border-color: #1a46ad;
+ --error-button-background-color: #3867d6;
+ --error-button-color: #ffffff;
+ --submit-button-border-color: #1a46ad;
+ --submit-button-background-color: #3867d6;
+ --submit-button-color: #ffffff;
+ --graph-opacity: 1;
+ --graph-filter: invert(100%) saturate(180%)
 }
-
-.container .logo{
-  flex-direction: row-reverse;
-  margin-right: 0px !important;
+nav .container {
+ flex-direction:row-reverse
 }
-
-.container .logo img{
-  margin-right: 0px !important;;
+nav .container {
+  font-weight: bold;
 }
-
+nav .container a:hover {
+  color: #c60024;
+}
+.container .logo {
+ flex-direction:row-reverse;
+ margin-right:0!important
+}
+.container .logo img {
+ margin-right:0!important;
+  object-fit: contain;
+  width: 120px;
+}
 .container .logo div {
-  display: none;
+ display:none
 }
 
-main.container section{
-  display: none;
+main.container > article.up {
+  margin-bottom: 2rem;
 }
 
-main.container section.live-status{
-  display: block;
+main.container section {
+ display: none;
+}
+main.container section.live-status {
+ display:block
 }
