@@ -9,6 +9,12 @@ sites:
   - name: Brose E-Bike SDK
     url: $STATUS_URL_SDK
     maxResponseTime: 5000
+  - name: Komoot
+    url: "https://auth-api.main.komoot.net/"
+    maxResponseTime: 5000
+  - name: Strava
+    url: "https://www.strava.com/"
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
