@@ -1,10 +1,32 @@
 :root {
-  --body-background-color: #001716;
-  --body-text-color: #f0ffff;
-  --card-background-color: #002b29;
-  --nav-background-color: #002b29;
-  --nav-border-bottom-color: #015450;
-}
+    --body-background-color: #0d1117;
+    --body-text-color: #c9d1d9;
+    --card-background-color: #30363D;
+    --nav-background-color: #161b22;
+    --nav-border-bottom-color: #161b22;
+    --nav-current-border-bottom-color: #33416a;
+    --card-border-color: #30363D;
+    --down-border-left-color: #ff7676;
+    --down-background-color: #6b1020;
+    --degraded-border-left-color: #f7b731;
+    --up-border-left-color: #53e69d;
+    --tag-color: #0d1117;
+    --tag-up-background-color: #53e69d;
+    --tag-down-background-color: #ff7676;
+    --tag-degraded-background-color: #f7b731;
+    --change-background-color: #f7b731;
+    --error-button-border-color: #1a46ad;
+    --error-button-background-color: #3867d6;
+    --error-button-color: #ffffff;
+    --submit-button-border-color: #1a46ad;
+    --submit-button-background-color: #3867d6;
+    --submit-button-color: #ffffff;
+    --graph-opacity: 1;
+    --graph-filter: hue-rotate(56deg) saturate(113%) brightness(54%); /* I had to do some crazy mental math to calculate this one, jesus christ. */
+    /* --graph-filter: brightness(0.35) sepia(1) hue-rotate(88deg) saturate(8); */
+
+    /* Based off of the "night" theme, with custom accents. */
+  }
 
 nav .container{
   flex-direction: row-reverse;
