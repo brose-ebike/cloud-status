@@ -1,0 +1,24 @@
+nav .container{
+  flex-direction: row-reverse;
+}
+
+.container .logo{
+  flex-direction: row-reverse;
+  margin-right: 0px !important;
+}
+
+.container .logo img{
+  margin-right: 0px !important;;
+}
+
+.container .logo div {
+  display: none;
+}
+
+main.container section{
+  display: none;
+}
+
+main.container section.live-status{
+  display: block;
+}
