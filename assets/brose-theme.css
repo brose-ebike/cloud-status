@@ -6,10 +6,10 @@
  --nav-border-bottom-color: #EEEEEE;
  --nav-current-border-bottom-color: #EEEEEE;
  --card-border-color: #EEEEEE;
- --down-border-left-color: #ff7676;
- --down-background-color: #6b1020;
+ --down-border-left-color: #F74E19;
+ --down-background-color: #ff7676;
  --degraded-border-left-color: #f7b731;
- --up-border-left-color: #53e69d;
+ --up-border-left-color: #2F88D1;
  --tag-color: #0d1117;
  --tag-up-background-color: #53e69d;
  --tag-down-background-color: #ff7676;
@@ -22,7 +22,7 @@
  --submit-button-background-color: #3867d6;
  --submit-button-color: #ffffff;
  --graph-opacity: 1;
- --graph-filter: invert(100%) saturate(180%)
+ --graph-filter: saturate(0%) brightness(100%);
 }
 nav .container {
  flex-direction:row-reverse
