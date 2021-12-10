@@ -56,3 +56,8 @@ main.container section {
 main.container section.live-status {
  display:block
 }
+.up.link a {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+}
