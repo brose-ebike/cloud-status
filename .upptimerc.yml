@@ -27,7 +27,7 @@ status-website:
   introMessage: ""
   favicon: https://static.brose.bike/images/generic/brose-favicon.ico
   logoUrl: https://static.brose.bike/images/generic/brose-logo.png
-  themeUrl: https://min.gitcdn.link/cdn/brose-ebike/cloud-status/master/assets/brose-theme.css
+  themeUrl: https://min.gitcdn.link/cdn/brose-ebike/cloud-status/c5ce1384c861ed5eb86469f393c1acb631465c40/assets/brose-theme.css
   navbar:
     - title: Status
       href: /
