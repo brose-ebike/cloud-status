@@ -1,6 +1,7 @@
 # Change these first
 owner: brose-ebike # GitHub organization
 repo: cloud-status # The name of this repository
+skipDeleteIssues: true
 
 sites:
   - name: Brose E-Bike App
