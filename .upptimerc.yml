@@ -7,9 +7,11 @@ sites:
   - name: Brose E-Bike App
     url: $STATUS_URL_APP
     maxResponseTime: 5000
+    icon: https://static.brose.bike/images/generic/brose-logo-rect.png
   - name: Brose E-Bike SDK
     url: $STATUS_URL_SDK
     maxResponseTime: 5000
+    icon: https://static.brose.bike/images/generic/brose-logo-rect.png
   - name: Komoot
     url: "https://auth-api.main.komoot.net/"
     maxResponseTime: 5000
