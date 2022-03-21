@@ -40,18 +40,20 @@
     "url": "https://auth-api.main.komoot.net/",
     "icon": "https://www.komoot.de/icons/favicon.11dce39abcb07b8a81b4c3be7218631f.png",
     "slug": "komoot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 519,
-    "timeDay": 524,
-    "timeWeek": 525,
+    "timeDay": 522,
+    "timeWeek": 524,
     "timeMonth": 521,
     "timeYear": 519,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-21": 0
+    }
   },
   {
     "name": "Strava",
