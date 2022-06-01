@@ -4,19 +4,19 @@
     "url": "$STATUS_URL_APP",
     "icon": "https://static.brose.bike/images/generic/brose-logo-rect.png",
     "slug": "brose-e-bike-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 900,
-    "timeWeek": 611,
-    "timeMonth": 604,
-    "timeYear": 577,
+    "time": 576,
+    "timeDay": 647,
+    "timeWeek": 584,
+    "timeMonth": 597,
+    "timeYear": 576,
     "dailyMinutesDown": {
-      "2022-06-01": 1
+      "2022-06-01": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$STATUS_URL_SDK",
     "icon": "https://static.brose.bike/images/generic/brose-logo-rect.png",
     "slug": "brose-e-bike-sdk",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 134,
-    "timeWeek": 134,
-    "timeMonth": 126,
+    "timeDay": 111,
+    "timeWeek": 129,
+    "timeMonth": 125,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2022-06-01": 0
+      "2022-06-01": 8
     }
   },
   {
@@ -48,7 +48,7 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 890,
     "timeDay": 2709,
