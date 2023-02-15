@@ -1,7 +1,7 @@
 url: $STATUS_URL_APP
-status: down
-code: 502
-responseTime: 3742
-lastUpdated: 2023-02-15T20:48:29.271Z
+status: degraded
+code: 504
+responseTime: 5267
+lastUpdated: 2023-02-15T21:39:06.258Z
 startTime: Thu Dec 09 2021 17:59:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
