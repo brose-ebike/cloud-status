@@ -1,7 +1,7 @@
 url: $STATUS_URL_SDK
-status: down
-code: 502
-responseTime: 3183
-lastUpdated: 2023-07-20T12:12:48.986Z
+status: up
+code: 200
+responseTime: 148
+lastUpdated: 2023-07-20T12:24:56.693Z
 startTime: Thu Dec 09 2021 17:59:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
