@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 672,
-    "timeDay": 397,
-    "timeWeek": 611,
-    "timeMonth": 571,
-    "timeYear": 714,
+    "timeDay": 284,
+    "timeWeek": 597,
+    "timeMonth": 560,
+    "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-07-20": 5,
-      "2022-08-30": 13
+      "2023-07-20": 5
     }
   },
   {
@@ -32,14 +31,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 184,
-    "timeDay": 117,
-    "timeWeek": 121,
-    "timeMonth": 117,
+    "timeDay": 96,
+    "timeWeek": 122,
+    "timeMonth": 115,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2023-07-20": 12,
-      "2023-03-19": 9,
-      "2022-08-30": 13
+      "2023-03-19": 9
     }
   },
   {
@@ -53,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.51%",
     "uptimeYear": "99.00%",
-    "time": 2656,
-    "timeDay": 2442,
-    "timeWeek": 3422,
-    "timeMonth": 3146,
+    "time": 2659,
+    "timeDay": 2108,
+    "timeWeek": 3428,
+    "timeMonth": 3092,
     "timeYear": 3011,
     "dailyMinutesDown": {
       "2023-08-16": 1172,
@@ -91,18 +89,19 @@
     "icon": "https://d3nn82uaxijpm6.cloudfront.net/apple-touch-icon-180x180.png",
     "slug": "strava",
     "status": "up",
-    "uptime": "98.33%",
+    "uptime": "98.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.58%",
-    "uptimeYear": "97.15%",
-    "time": 548,
-    "timeDay": 733,
-    "timeWeek": 331,
-    "timeMonth": 1044,
+    "uptimeMonth": "63.29%",
+    "uptimeYear": "96.88%",
+    "time": 547,
+    "timeDay": 123,
+    "timeWeek": 326,
+    "timeMonth": 1042,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2023-08-29": 10,
+      "2023-08-30": 10,
+      "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
