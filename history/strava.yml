@@ -1,7 +1,7 @@
 url: https://www.strava.com/
-status: degraded
+status: up
 code: 200
-responseTime: 7322
-lastUpdated: 2023-09-03T15:22:09.067Z
+responseTime: 2685
+lastUpdated: 2023-09-03T15:49:26.667Z
 startTime: 2021-12-09T19:47:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
