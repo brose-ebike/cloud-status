@@ -1,7 +1,7 @@
 url: https://www.komoot.de/
-status: up
+status: degraded
 code: 200
-responseTime: 3547
-lastUpdated: 2023-09-11T23:03:01.084Z
+responseTime: 6040
+lastUpdated: 2023-09-12T17:35:49.336Z
 startTime: 2021-12-09T19:47:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
