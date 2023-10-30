@@ -13,7 +13,7 @@ sites:
     maxResponseTime: 5000
     icon: https://static.brose.bike/images/generic/brose-logo-rect.png
   - name: Komoot
-    url: "https://www.komoot.de/"
+    url: "https://www.komoot.com/"
     maxResponseTime: 5000
     icon: "https://www.komoot.de/icons/favicon.11dce39abcb07b8a81b4c3be7218631f.png"
   - name: Strava
