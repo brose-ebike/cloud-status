@@ -12,15 +12,10 @@ sites:
     url: $STATUS_URL_SDK
     maxResponseTime: 5000
     icon: https://static.brose.bike/images/generic/brose-logo-rect.png
-  - name: Komoot
-    url: "https://www.komoot.com/"
+  - name: Brose Rider UI
+    url: https://rider.brose.bike
     maxResponseTime: 5000
-    icon: "https://www.komoot.de/icons/favicon.11dce39abcb07b8a81b4c3be7218631f.png"
-  - name: Strava
-    url: "https://www.strava.com/"
-    maxResponseTime: 5000
-    icon: "https://d3nn82uaxijpm6.cloudfront.net/apple-touch-icon-180x180.png"
-
+    icon: https://static.brose.bike/images/generic/brose-logo-rect.png
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
