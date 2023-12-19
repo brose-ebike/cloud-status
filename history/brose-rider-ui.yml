@@ -1,7 +1,7 @@
 url: https://rider.brose.bike
-status: down
-code: 503
-responseTime: 256
-lastUpdated: 2023-12-19T15:41:37.353Z
+status: up
+code: 200
+responseTime: 1131
+lastUpdated: 2023-12-19T16:29:34.500Z
 startTime: 2023-11-09T09:14:41.179Z
 generator: Upptime <https://github.com/upptime/upptime>
