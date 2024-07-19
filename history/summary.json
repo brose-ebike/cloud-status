@@ -11,17 +11,16 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.45%",
     "time": 559,
-    "timeDay": 502,
-    "timeWeek": 607,
-    "timeMonth": 564,
-    "timeYear": 556,
+    "timeDay": 655,
+    "timeWeek": 612,
+    "timeMonth": 567,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2024-07-04": 78,
       "2024-01-29": 576,
       "2024-01-28": 756,
       "2024-01-22": 870,
-      "2024-01-21": 630,
-      "2023-07-20": 5
+      "2024-01-21": 630
     }
   },
   {
@@ -36,13 +35,12 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 170,
-    "timeDay": 89,
-    "timeWeek": 106,
+    "timeDay": 105,
+    "timeWeek": 107,
     "timeMonth": 110,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-07-04": 78,
-      "2023-07-20": 12
+      "2024-07-04": 78
     }
   },
   {
@@ -51,15 +49,15 @@
     "icon": "https://static.brose.bike/images/generic/brose-logo-rect.png",
     "slug": "brose-rider-ui",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 635,
-    "timeDay": 615,
-    "timeWeek": 626,
-    "timeMonth": 700,
+    "timeDay": 632,
+    "timeWeek": 631,
+    "timeMonth": 699,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2024-07-04": 78,
