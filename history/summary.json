@@ -4,10 +4,10 @@
     "url": "$STATUS_URL_APP",
     "icon": "https://static.brose.bike/images/generic/brose-logo-rect.png",
     "slug": "brose-e-bike-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 560,
@@ -16,6 +16,7 @@
     "timeMonth": 568,
     "timeYear": 560,
     "dailyMinutesDown": {
+      "2024-09-11": 1,
       "2024-07-04": 78,
       "2024-01-29": 576,
       "2024-01-28": 756,
@@ -28,10 +29,10 @@
     "url": "$STATUS_URL_SDK",
     "icon": "https://static.brose.bike/images/generic/brose-logo-rect.png",
     "slug": "brose-e-bike-sdk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 115,
@@ -40,6 +41,7 @@
     "timeMonth": 110,
     "timeYear": 107,
     "dailyMinutesDown": {
+      "2024-09-11": 1,
       "2024-07-04": 78
     }
   },
@@ -48,9 +50,9 @@
     "url": "https://rider.brose.bike",
     "icon": "https://static.brose.bike/images/generic/brose-logo-rect.png",
     "slug": "brose-rider-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
@@ -60,6 +62,7 @@
     "timeMonth": 756,
     "timeYear": 645,
     "dailyMinutesDown": {
+      "2024-09-11": 0,
       "2024-07-04": 78,
       "2023-12-20": 821,
       "2023-12-19": 498
